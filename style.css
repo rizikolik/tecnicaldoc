@@ -1,0 +1,19 @@
+#navbar{
+   position: fixed;
+    
+    left: 0;
+}
+#main-doc{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+@media  (max-width:740px){   
+
+#TOPİC2{
+    background:#ffffff;
+
+}
+}
+    
+    
